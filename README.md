@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">
   Hi 👋, I'm Arun Mohapatra
 </h1>
@@ -140,4 +140,4 @@
 <p align="center">
   ⭐️ From <a href="https://github.com/arunlipun">Arun Mohapatra</a>
 </p>
-```
+
