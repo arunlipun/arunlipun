@@ -25,9 +25,9 @@
 
 ```javascript
 const arun = {
-  role      : "Full Stack Developer & Data Analytics",
+  role      : "Developer & Data Analytics",
   location  : "India 🇮🇳",
-  learning  : ["JavaScript (MERN)", "System Design"],
+  learning  : ["Java(Microservices)", "System Design"],
   collab    : "Web Development Projects",
   contact   : "mohapatraarun64@gmail.com",
   funFact   : "I debug with console.log and I'm not ashamed 😄",
