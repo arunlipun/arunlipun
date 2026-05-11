@@ -1,6 +1,16 @@
 <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arun+Mohapatra;Developer;AIML+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
+</h1>
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arun+Mohapatra;Full+Stack+Developer;AIML+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer Coding" />
+</div>
+
+<p align="center">
+  <a href="https://twitter.com/arunmohapatra">...
 
 <p align="center">
   <a href="https://twitter.com/arunmohapatra"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
