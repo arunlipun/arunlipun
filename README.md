@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arun+Mohapatra;Full+Stack+Developer;AIML+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Arun+Mohapatra; Developer;AIML+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -19,14 +19,15 @@
 
 ```javascript
 const arun = {
-  role      : "Full Stack Developer & Data Analytics",
+  role      : " Developer & Data Analytics",
   location  : "India 🇮🇳",
   learning  : ["Java (Microservices)", "System Design"],
   collab    : "Web Development Projects",
   contact   : "mohapatraarun64@gmail.com",
   funFact   : "I debug with console.log and I'm not ashamed 😄",
 };
-` ` `
+
+```
 
 ---
 
@@ -86,6 +87,3 @@ const arun = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arunlipun&label=Profile+Views&color=7c3aed&style=flat-square"/>
 </p>
-```
-
-**Fixes made:** removed the duplicate `<h1>`, removed the broken `<p align="center"> <a href="...">...` placeholder line, and restored `role` to "Full Stack Developer". Just replace your entire `README.md` with this — clean copy-paste, no duplicates. ✅
