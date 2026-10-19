@@ -47,7 +47,37 @@
 </a>
 </p>
 
+
+
 ---
+
+## 🌍 Featured Project
+
+<h3 align="center">🌐 IT Companies 3D Globe</h3>
+
+<p align="center">
+  <a href="https://arunlipun.github.io/IT-GLOBE/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_Globe-7F77DD?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/<tumhara-username>/it-companies-globe" target="_blank">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://it-companies-globe.vercel.app">
+    <img src="https://raw.githubusercontent.com/<tumhara-username>/it-companies-globe/main/globe.png" alt="IT Companies Globe" width="600"/>
+  </a>
+</p>
+
+- 🌎 Interactive 3D globe with 570+ IT companies shown as colour-coded dots (MNC, Startup, Product, Services, Consulting, Trading/Marketing)
+- 🖱️ Drag to rotate, scroll to zoom, click a dot to see company details
+- 🗺️ Real country borders built from TopoJSON data
+- 🛠️ **Tech:** `Three.js` · `WebGL` · `Raycasting` · `d3-geo` · `JavaScript` · `Vercel`
+
+---
+
+
 
 # 💻 Tech Stack
 
